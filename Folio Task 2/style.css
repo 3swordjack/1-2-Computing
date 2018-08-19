@@ -1,0 +1,50 @@
+body {
+  background:#ffcc99;
+}
+
+h1 {
+margin:30px;
+text-align:center;
+margin-bottom:50px;
+font:72px arial, sans-serif;
+}
+
+#instruction{
+text-align:center;
+font-size:20px;
+font-family:"Arial",Sans-serif;
+padding:10px;a
+}
+p{
+text-align:center;
+font-size:50px;
+font-family:"Arial",Sans-serif;
+padding:50px;
+
+}
+#sum{
+
+
+}
+#avg{
+
+
+}
+
+input{
+text-align:center;
+position:absolute;
+width:15%;
+font-size:70px;
+}
+
+
+
+#in1{
+left:100px;
+}
+
+#in2{
+right:100px;
+
+}

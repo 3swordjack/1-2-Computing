@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  background:#ffcc99;
+}
+
+h1 {
+margin:30px;
+text-align:center;
+margin-bottom:50px;
+font:72px arial, sans-serif;
+}
+
+#instruction{
+text-align:center;
+font-size:20px;
+font-family:"Arial",Sans-serif;
+padding:10px;
+}
+
+#answer{
+text-align:center;
+font-size:50px;
+font-family:"Arial",Sans-serif;
+padding:50px;
+
+}
+
+input{
+font-size:20px;
+width:20%;
+position:absolute;
+
+}
+
+
+#name{
+left:200px;
+}
+
+#year{
+right:200px;
+
+}
